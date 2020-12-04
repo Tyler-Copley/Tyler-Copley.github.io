@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+h1{
+    font-family: Algerian, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 900%;
+    color: rgb(150,75,15);
+    margin: 10px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 450%;
+    font-family: Brush Script MT, Helvetica, sans-serif;
+    margin: 10px;
+    color: rgb(150,75,15);
+}
+
+h3 {
+    font-size: 200%;
+    color:rgb(75,32,15);
+}
+
+h4 {
+    color: rgb(75,32,15);
+    border-style: groove;
+    border-color: rgb(150,75,15);
+    margin: 50px;
+    font-size: 110%;
+    font-family: Informal Roman;
+    
+}
+
+div {
+    color: rgb(150,75,15);
+    border-style: groove;
+    border-color: rgb(150,75,15);
+}
+
+img{
+    margin: 10px;
+    text-align:center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    filter:opacity(70%);
+    filter:sepia(100%)
+}
+
+ul {
+
+}
+
+ul li{
+    font-size: 150%;
+    font-family: Engravers MT
+}
+
+p {
+    color: rgb(150,75,15);
+    margin: 10px;
+    text-align:center;
+    font-size: 115%;
+}
+
+p span{
+    color: rgb(150,75,15);
+    font-family: Blackadder ITC
+}
